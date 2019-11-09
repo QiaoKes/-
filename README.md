@@ -6,3 +6,4 @@
 
 
 ![image](https://github.com/QiaoKes/Campus-network-login-tool/blob/master/image/1.png)
+![image](https://github.com/QiaoKes/Campus-network-login-tool/blob/master/image/2.png)
