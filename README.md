@@ -2,35 +2,12 @@
 
 界面效果：
 
-
-
-
 ![image](https://github.com/QiaoKes/Campus-network-login-tool/blob/master/image/1.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![image](https://github.com/QiaoKes/Campus-network-login-tool/blob/master/image/2.jpg)
 
-
-
-
-
-
-
-
-
 使用说明：
+
 #可以用来连接无线网和网线网络
 
 #WIFI尾缀为AUTO的不可用此工具
